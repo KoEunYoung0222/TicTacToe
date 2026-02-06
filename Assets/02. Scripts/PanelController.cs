@@ -2,6 +2,8 @@ using System;
 using DG.Tweening;
 using Unity.VisualScripting;
 using UnityEngine;
+using static Constants;
+
 
 public class PanelController : MonoBehaviour
 {
